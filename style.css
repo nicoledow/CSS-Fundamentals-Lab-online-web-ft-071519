@@ -39,6 +39,10 @@ footer {
   display: block;
 }
 
+footer div {
+  float: left;
+}
+
 
 
 
