@@ -33,6 +33,7 @@ figcaption {
   /*display: inline-block;*/
   width: 800px;
   text-align: center;
+  margin: 0auto;
 }
 
 
