@@ -29,8 +29,8 @@ figcaption {
   font-size: 12px;
 }
 
-#featured-property p{
-  
+#featured-property p {
+  display: inline-block;
 }
 
 
