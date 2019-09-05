@@ -30,7 +30,7 @@ figcaption {
 }
 
 #featured-property p {
-  display: inline-block;
+  /*display: inline-block;*/
   width: 800px;
   text-align: center;
 }
